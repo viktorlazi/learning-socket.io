@@ -1,0 +1,25 @@
+{
+  "name": "learning-socket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorlazi/learning-socket.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorlazi/learning-socket.io/issues"
+  },
+  "homepage": "https://github.com/viktorlazi/learning-socket.io#readme",
+  "dependencies": {
+    "@types/socket.io-client": "^1.4.35",
+    "express": "^4.17.1",
+    "socket.io": "^3.1.0",
+    "socket.io-client": "^3.1.0"
+  }
+}
